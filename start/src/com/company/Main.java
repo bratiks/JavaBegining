@@ -10,6 +10,14 @@ public class Main {
                 "\t\tliving someone else’s life”\n" +
                 "\t\t\tSteve Jobs");
 
+        second(null);
+        //third(null);
+        //fourth(null);
+        //fifth(null);
+        //sixth(null);
+        //seventh(null);
+        //eighth(null);
+        //ninth(null);
         //tenth(null);
         //eleventh(5, "right", '&');
         int[] arr = new int[] {5, 1, 5, 3, 6};
